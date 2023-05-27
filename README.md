@@ -2,15 +2,14 @@
    <img src="https://i.imgur.com/2zsZF59.png">
 <p>
 
-## Sobre o projeto
+## About the Project
+A site that shows 4 tourist points of the 5 regions of Brazil, together with a map in svg, which is used as a page selector of the respective regions. <br> Icon of the site and logo taken from the site [VeryIcon](https://www.veryicon.com)
 
-Um site que mostra quatro pontos turísticos de cada região do Brasil. Um mapa SVG é usado como seletor para cada página.<br>Ícone do site e da logo retirados do site [VeryIcon](https://www.veryicon.com)
-
-## Usagem e Instalação
-Acesse o site clicando [aqui](https://gmozer.github.io/TurismoRegional/)<br>Você também pode clonar o repositório com o git ou baixar o código como RAR.
+## Use and Installation
+Access the site clicking [here](https://gmozer.github.io/TurismoRegional/)<br>You can also clone the repository with git or download the code as RAR.
 
 ```bash
-$ git clone https://github.com/gMozer/TurismoRegional.git
+$ git clone https://github.com/Belinaci/TurismoRegional.git
 ```
     
 ## Autores
