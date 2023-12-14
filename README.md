@@ -6,7 +6,7 @@
 A site that shows 4 tourist points of the 5 regions of Brazil, together with a map in svg, which is used as a page selector of the respective regions. <br> Icon of the site and logo taken from the site [VeryIcon](https://www.veryicon.com)
 
 ## Use and Installation
-Access the site clicking [here](https://gmozer.github.io/TurismoRegional/)<br>You can also clone the repository with git or download the code as RAR.
+Access the site clicking [here](https://Belinaci.github.io/Turismo_Regional/)<br>You can also clone the repository with git or download the code as RAR.
 
 ```bash
 $ git clone https://github.com/Belinaci/TurismoRegional.git
